@@ -32,3 +32,6 @@ Utilize o GCC para montar e linkar o arquivo. A flag `-no-pie` é utilizada para
 
 ```bash
 gcc -no-pie calc_final.s -o calc
+ou
+gcc -no-pie calc_final.s -o calc_final
+./calc_final
