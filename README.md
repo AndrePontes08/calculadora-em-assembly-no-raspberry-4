@@ -1,6 +1,6 @@
 # 🧮 Calculadora em Assembly ARM64 (AArch64)
 
-> Projeto desenvolvido para a disciplina de Arquitetura de Computadores / Sistemas Embarcados.
+> Projeto desenvolvido para a disciplina de Sistemas Embarcados.
 
 Este repositório contém uma calculadora interativa de linha de comando desenvolvida inteiramente em **Assembly (ARMv8-A)**, executada nativamente em um **Raspberry Pi 4**.
 
